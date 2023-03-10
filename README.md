@@ -1,1 +1,3 @@
 # TheOdin
+
+This project encapsulates all the assignments under The Odin Project is an open-source, free online curriculum for learning web development. This repository contains all the assignments issued in the curriculum, providing a central location for students to store their work and track their progress. With a focus on project-based learning, students are challenged to apply their skills and knowledge to real-world scenarios, building a comprehensive portfolio of work to showcase their abilities. 
